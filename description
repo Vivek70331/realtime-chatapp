@@ -1,0 +1,8 @@
+Real-Time Chat Application Overview
+This project is a complete, full-stack real-time chat application designed for instant communication. It uses the powerful MERN-adjacent stack of React for a smooth, single-page frontend interface and Node.js with Express for a fast, scalable backend server.
+
+The core technology driving the instant experience is Socket.io. This library uses WebSockets to establish a persistent, two-way connection between the server and all connected clients. This means when a user sends a message, the server immediately broadcasts it to everyone else—no refreshing required.
+
+Users can join the chat by entering a custom name. The application includes key features for a clean user experience (UX), such as automatic system notifications when users join or leave, clear message timestamps, and visual highlighting to distinguish your own messages from others.
+
+It serves as an excellent reference for building any application requiring instant data synchronization.
